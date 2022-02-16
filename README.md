@@ -1,46 +1,89 @@
 fffff8063913a110 - nt!NtAccessCheck (fffff806`3913a110)
+
 fffff80639145600 - nt!NtWorkerFactoryWorkerReady (fffff806`39145600)
+
 fffff806395078b0 - nt!NtAcceptConnectPort (fffff806`395078b0)
+
 fffff806396d36f0 - nt!NtMapUserPhysicalPagesScatter (fffff806`396d36f0)
+
 fffff806393f7c00 - nt!NtWaitForSingleObject (fffff806`393f7c00)
+
 fffff806391facf0 - nt!NtCallbackReturn (fffff806`391facf0)
+
 fffff8063948c470 - nt!NtReadFile (fffff806`3948c470)
+
 fffff80639474dc0 - nt!NtDeviceIoControlFile (fffff806`39474dc0)
+
 fffff8063948b840 - nt!NtWriteFile (fffff806`3948b840)
+
 fffff806394d7680 - nt!NtRemoveIoCompletion (fffff806`394d7680)
+
 fffff806394d5f30 - nt!NtReleaseSemaphore (fffff806`394d5f30)
+
 fffff80639489bc0 - nt!NtReplyWaitReceivePort (fffff806`39489bc0)
+
 fffff8063942e1b0 - nt!NtReplyPort (fffff806`3942e1b0)
+
 fffff80639473ca0 - nt!NtSetInformationThread (fffff806`39473ca0)
+
 fffff80639473390 - nt!NtSetEvent (fffff806`39473390)
+
 fffff806393f7930 - nt!NtClose (fffff806`393f7930)
+
 fffff8063945fa20 - nt!NtQueryObject (fffff806`3945fa20)
+
 fffff80639478370 - nt!NtQueryInformationFile (fffff806`39478370)
+
 fffff806394e3920 - nt!NtOpenKey (fffff806`394e3920)
+
 fffff806393e8e70 - nt!NtEnumerateValueKey (fffff806`393e8e70)
+
 fffff806394026d0 - nt!NtFindAtom (fffff806`394026d0)
+
 fffff806394b5580 - nt!NtQueryDefaultLocale (fffff806`394b5580)
+
 fffff80639495690 - nt!NtQueryKey (fffff806`39495690)
+
 fffff80639495d30 - nt!NtQueryValueKey (fffff806`39495d30)
+
 fffff806394b6d20 - nt!NtAllocateVirtualMemory (fffff806`394b6d20)
+
 fffff80639461f60 - nt!NtQueryInformationProcess (fffff806`39461f60)
+
 fffff806394e4000 - nt!NtWaitForMultipleObjects32 (fffff806`394e4000)
+
 fffff806394ecd30 - nt!NtWriteFileGather (fffff806`394ecd30)
+
 fffff806394a07c0 - nt!NtSetInformationProcess (fffff806`394a07c0)
+
 fffff806394520b0 - nt!NtCreateKey (fffff806`394520b0)
+
 fffff806393f9120 - nt!NtFreeVirtualMemory (fffff806`393f9120)
+
 fffff806396be7c0 - nt!NtImpersonateClientOfPort (fffff806`396be7c0)
+
 fffff80639473280 - nt!NtReleaseMutant (fffff806`39473280)
+
 fffff8063947ef30 - nt!NtQueryInformationToken (fffff806`3947ef30)
+
 fffff806394edf70 - nt!NtRequestWaitReplyPort (fffff806`394edf70)
+
 fffff806393ffa00 - nt!NtQueryVirtualMemory (fffff806`393ffa00)
+
 fffff806394669c0 - nt!NtOpenThreadToken (fffff806`394669c0)
+
 fffff80639488c30 - nt!NtQueryInformationThread (fffff806`39488c30)
+
 fffff806394d2e90 - nt!NtOpenProcess (fffff806`394d2e90)
+
 fffff8063908fd60 - nt!NtSetInformationFile (fffff806`3908fd60)
+
 fffff806393fece0 - nt!NtMapViewOfSection (fffff806`393fece0)
+
 fffff806394272f0 - nt!NtAccessCheckAndAuditAlarm (fffff806`394272f0)
+
 fffff806394fd6c0 - nt!NtUnmapViewOfSection (fffff806`394fd6c0)
+
 fffff80639489be0 - nt!NtReplyWaitReceivePortEx (fffff806`39489be0)
 fffff806394b4540 - nt!NtTerminateProcess (fffff806`394b4540)
 fffff8063974bd10 - nt!NtSetEventBoostPriority (fffff806`3974bd10)

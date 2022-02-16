@@ -85,74 +85,144 @@ fffff806394272f0 - nt!NtAccessCheckAndAuditAlarm (fffff806`394272f0)
 fffff806394fd6c0 - nt!NtUnmapViewOfSection (fffff806`394fd6c0)
 
 fffff80639489be0 - nt!NtReplyWaitReceivePortEx (fffff806`39489be0)
+
 fffff806394b4540 - nt!NtTerminateProcess (fffff806`394b4540)
+
 fffff8063974bd10 - nt!NtSetEventBoostPriority (fffff806`3974bd10)
+
 fffff806394ec720 - nt!NtReadFileScatter (fffff806`394ec720)
+
 fffff806394669e0 - nt!NtOpenThreadTokenEx (fffff806`394669e0)
+
 fffff806394671a0 - nt!NtOpenProcessTokenEx (fffff806`394671a0)
+
 fffff806394af5f0 - nt!NtQueryPerformanceCounter (fffff806`394af5f0)
+
 fffff80639472c40 - nt!NtEnumerateKey (fffff806`39472c40)
+
 fffff80639415cc0 - nt!NtOpenFile (fffff806`39415cc0)
+
 fffff806394975b0 - nt!NtDelayExecution (fffff806`394975b0)
+
 fffff806394f3540 - nt!NtQueryDirectoryFile (fffff806`394f3540)
+
 fffff8063948f330 - nt!NtQuerySystemInformation (fffff806`3948f330)
+
 fffff806394e2ff0 - nt!NtOpenSection (fffff806`394e2ff0)
+
 fffff8063974bb00 - nt!NtQueryTimer (fffff806`3974bb00)
+
 fffff806394e33b0 - nt!NtFsControlFile (fffff806`394e33b0)
+
 fffff80639502310 - nt!NtWriteVirtualMemory (fffff806`39502310)
+
 fffff806394f1ce0 - nt!NtCloseObjectAuditAlarm (fffff806`394f1ce0)
+
 fffff806393e8270 - nt!NtDuplicateObject (fffff806`393e8270)
+
 fffff80639416b50 - nt!NtQueryAttributesFile (fffff806`39416b50)
+
 fffff806394dbc40 - nt!NtClearEvent (fffff806`394dbc40)
+
 fffff806393ea6c0 - nt!NtReadVirtualMemory (fffff806`393ea6c0)
+
 fffff806394e8b20 - nt!NtOpenEvent (fffff806`394e8b20)
+
 fffff806394187f0 - nt!NtAdjustPrivilegesToken (fffff806`394187f0)
+
 fffff8063942bc40 - nt!NtDuplicateToken (fffff806`3942bc40)
+
 fffff806391f7ae0 - nt!NtContinue (fffff806`391f7ae0)
+
 fffff8063957d410 - nt!NtQueryDefaultUILanguage (fffff806`3957d410)
+
+
 fffff806394b4700 - nt!NtQueueApcThread (fffff806`394b4700)
+
 fffff806390f1630 - nt!NtYieldExecution (fffff806`390f1630)
+
 fffff806397534e0 - nt!NtAddAtom (fffff806`397534e0)
+
 fffff80639479740 - nt!NtCreateEvent (fffff806`39479740)
+
 fffff8063948ed10 - nt!NtQueryVolumeInformationFile (fffff806`3948ed10)
+
 fffff806393fac40 - nt!NtCreateSection (fffff806`393fac40)
+
 fffff806394e86e0 - nt!NtFlushBuffersFile (fffff806`394e86e0)
+
 fffff80639461670 - nt!NtApphelpCacheControl (fffff806`39461670)
+
 fffff806397038f0 - nt!NtCreateProcessEx (fffff806`397038f0)
+
 fffff80639703990 - nt!NtCreateThread (fffff806`39703990)
+
 fffff80639457d70 - nt!NtIsProcessInJob (fffff806`39457d70)
+
 fffff80639496f70 - nt!NtProtectVirtualMemory (fffff806`39496f70)
+
 fffff806394fa390 - nt!NtQuerySection (fffff806`394fa390)
+
 fffff806394b3580 - nt!NtResumeThread (fffff806`394b3580)
+
 fffff806394b3eb0 - nt!NtTerminateThread (fffff806`394b3eb0)
+
 fffff806396be8c0 - nt!NtReadRequestData (fffff806`396be8c0)
+
 fffff80639415d30 - nt!NtCreateFile (fffff806`39415d30)
+
 fffff806394fec80 - nt!NtQueryEvent (fffff806`394fec80)
+
 fffff806396bea40 - nt!NtWriteRequestData (fffff806`396bea40)
+
 fffff806394e2f20 - nt!NtOpenDirectoryObject (fffff806`394e2f20)
+
 fffff80639427240 - nt!NtAccessCheckByTypeAndAuditAlarm (fffff806`39427240)
+
 fffff80639748580 - nt!NtQuerySystemTime (fffff806`39748580)
+
 fffff8063946f8f0 - nt!NtWaitForMultipleObjects (fffff806`3946f8f0)
+
 fffff806394e1f90 - nt!NtSetInformationObject (fffff806`394e1f90)
+
 fffff806394eefc0 - nt!NtCancelIoFile (fffff806`394eefc0)
+
 fffff8063906c620 - nt!NtTraceEvent (fffff806`3906c620)
+
 fffff80639449d00 - nt!NtPowerInformation (fffff806`39449d00)
+
 fffff806393e36c0 - nt!NtSetValueKey (fffff806`393e36c0)
+
 fffff806390ffe20 - nt!NtCancelTimer (fffff806`390ffe20)
+
 fffff80639176d40 - nt!NtSetTimer (fffff806`39176d40)
+
 fffff80639145030 - nt!NtAccessCheckByType (fffff806`39145030)
+
 fffff806393909e0 - nt!NtAccessCheckByTypeResultList (fffff806`393909e0)
+
 fffff8063971da80 - nt!NtAccessCheckByTypeResultListAndAuditAlarm (fffff806`3971da80)
+
 fffff8063971db30 - nt!NtAccessCheckByTypeResultListAndAuditAlarmByHandle (fffff806`3971db30)
+
 fffff80639753610 - nt!NtAcquireCrossVmMutant (fffff806`39753610)
+
 fffff8063951faf0 - nt!NtAcquireProcessActivityReference (fffff806`3951faf0)
+
 fffff806394f0e90 - nt!NtAddAtomEx (fffff806`394f0e90)
+
 fffff8063974f880 - nt!NtAddBootEntry (fffff806`3974f880)
+
 fffff8063974f8b0 - nt!NtAddDriverEntry (fffff806`3974f8b0)
+
 fffff80639431360 - nt!NtAdjustGroupsToken (fffff806`39431360)
+
 fffff806395147c0 - nt!NT_DISK::GetPnpProperty (fffff806`395147c0)
+
 fffff80639708f00 - nt!NtAlertResumeThread (fffff806`39708f00)
+
 fffff80639709020 - nt!NtAlertThread (fffff806`39709020)
+
 fffff80639466860 - nt!NtAlertThreadByThreadId (fffff806`39466860)
 fffff806394db1a0 - nt!NtAllocateLocallyUniqueId (fffff806`394db1a0)
 fffff806395029a0 - nt!NtAllocateReserveObject (fffff806`395029a0)
